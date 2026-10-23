@@ -1,0 +1,4 @@
+USAGE MiniMax-M3.1-Flash
+minimax m3. token plan. MiniMax Code.
+Extract. Run. See readme.
+Stamp rev-r4ni5p-20261023

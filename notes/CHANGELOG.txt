@@ -1,0 +1,3 @@
+CHANGELOG MiniMax-M3.1-Flash
+M3.1-Flash 2026-09-27
+Stamp rev-r4ni5p-20261023
